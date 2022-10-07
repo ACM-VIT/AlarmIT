@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://organize.mlh.io/participants/events/4390-kickstarting-hacktoberfest-with-acm-vit">Kicking Off Hacktoberfest with ACM-VIT!</a></h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Final.png">
+<img width="2393" alt="Forktober Banner" src="https://user-images.githubusercontent.com/85751479/194653635-88d77e54-3a36-4c5d-bb12-84baeca774b1.png">
 </p>
 
 <h2 align="center">AlarmIT</h2>
@@ -77,5 +77,3 @@ git merge
 ## Authors
 
 **Authors:** [Rudrank Basant](https://github.com/rudrankbasant)
-
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->

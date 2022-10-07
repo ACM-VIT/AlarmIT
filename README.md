@@ -26,7 +26,7 @@ AlarmIT is a simple alarm app. The alarms can be turned off via three methods
  * Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
  <pre><code>git clone https://github.com/rudrankbasant/AlarmIT.git</code></pre>
 * Go to the cloned directory by running 
-<pre><code>cd paint-me</code></pre>
+<pre><code>cd AlarmIT</code></pre>
 * Create a new branch. Use 
 <pre><code> git checkout -b [YOUR-BRANCH-NAME]</code></pre>
 * Make your changes to the code. Add changes to your branch by using 

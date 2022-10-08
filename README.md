@@ -54,13 +54,9 @@ AlarmIT is a simple alarm app. The alarms can be turned off via three methods
   For additional guidelines, refer to [participation rules](https://hacktoberfest.digitalocean.com/details#rules)
 
 ---
-
--_domain specific guidelines here_-
-  
----
 ## Overview
 
-The overview starts here. Random text about the project, motive, how, what, why etc.
+AlarmIT is a project initiated for Hacktoberfest2022, so that beginners and those who have some fluency in the native app development domain can start to contribute to an open source project. 
 
 ---
 ## Usage

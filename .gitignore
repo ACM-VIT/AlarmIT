@@ -1,3 +1,5 @@
+/.idea/kotlinc.xml
+/.idea/vcs.xml
 *.iml
 .gradle
 /local.properties

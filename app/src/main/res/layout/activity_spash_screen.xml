@@ -11,7 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="319dp"
         android:layout_height="121dp"
-        android:text=" ArarmIT App"
+        android:text=" AlarmIT"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="34sp"

@@ -7,10 +7,17 @@
     android:background="@color/color_secondary"
     tools:context=".SpashScreen">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/alarm_icon"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="68dp" />
+
     <TextView
         android:id="@+id/textView"
-        android:layout_width="319dp"
-        android:layout_height="121dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text=" AlarmIT"
         android:textAlignment="center"
         android:textColor="@color/white"
@@ -18,8 +25,7 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.389"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.529" />
+        app:layout_constraintVertical_bias="0.797" />
 </androidx.constraintlayout.widget.ConstraintLayout>

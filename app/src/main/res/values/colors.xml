@@ -12,6 +12,8 @@
     !-- App Theme Colors -->
     <color name="color_primary">#1A1A2E</color>
     <color name="color_primary_light">#16213E</color>
+    <color name="card_color">#c5cae9</color>
+    <color name="app_green_contrast">#A4F40B</color>
 
     <color name="color_secondary">#0F3460</color>
     <color name="color1">#C11A35</color>
